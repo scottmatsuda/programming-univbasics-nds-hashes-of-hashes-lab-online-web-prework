@@ -30,3 +30,7 @@ def naming_system = {
 end
  
  
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> cfd39998e9da10d22b942f69605f3b781ca72daa
